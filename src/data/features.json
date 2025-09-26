@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "icon": "pe-7s-cloud",
+    "title": "Cloud Architecture & Migration",
+    "content": "Transform your infrastructure with cutting-edge cloud solutions. We design scalable, secure, and cost-effective cloud architectures using AWS, Azure, and GCP, ensuring seamless migration with zero downtime."
+  },
+  {
+    "id": 2,
+    "icon": "pe-7s-rocket",
+    "title": "DevOps & CI/CD Pipeline",
+    "content": "Accelerate your development lifecycle with automated CI/CD pipelines, containerization with Docker & Kubernetes, infrastructure as code, and comprehensive monitoring solutions that reduce deployment time by 80%."
+  },
+  {
+    "id": 3,
+    "icon": "pe-7s-shield",
+    "title": "Cybersecurity & Compliance",
+    "content": "Protect your digital assets with advanced security frameworks, threat detection, vulnerability assessments, and compliance solutions for GDPR, HIPAA, SOX, and industry-specific regulations."
+  },
+  {
+    "id": 4,
+    "icon": "pe-7s-graph3",
+    "title": "Data Engineering & AI/ML",
+    "content": "Unlock the power of your data with modern data pipelines, real-time analytics, machine learning models, and AI-powered insights that drive business growth and competitive advantage."
+  },
+  {
+    "id": 5,
+    "icon": "pe-7s-phone",
+    "title": "Mobile & Web Development",
+    "content": "Build exceptional digital experiences with React, Angular, Vue.js, React Native, Flutter, and progressive web apps. We create scalable, responsive applications that engage users across all platforms."
+  },
+  {
+    "id": 6,
+    "icon": "pe-7s-server",
+    "title": "Microservices & API Architecture",
+    "content": "Design robust, scalable backend systems with microservices architecture, RESTful APIs, GraphQL, event-driven systems, and distributed computing patterns for enterprise-grade applications."
+  },
+  {
+    "id": 7,
+    "icon": "pe-7s-tools",
+    "title": "Quality Assurance & Testing",
+    "content": "Ensure flawless software delivery with automated testing frameworks, performance testing, security testing, and comprehensive QA processes that maintain 99.9% application reliability."
+  },
+  {
+    "id": 8,
+    "icon": "pe-7s-users",
+    "title": "IT Consulting & Strategy",
+    "content": "Strategic technology consulting to align IT initiatives with business objectives. We provide digital transformation roadmaps, technology assessments, and architectural guidance for sustainable growth."
+  }
+]

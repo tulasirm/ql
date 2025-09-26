@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "icon": "pe-7s-cloud",
+    "title": "Cloud Architecture & Migration",
+    "description": "Transform your infrastructure with enterprise-grade cloud solutions",
+    "technologies": ["AWS", "Azure", "GCP", "Terraform", "CloudFormation", "Kubernetes"],
+    "features": [
+      "Multi-cloud architecture design",
+      "Zero-downtime migration strategies",
+      "Cost optimization & monitoring",
+      "Auto-scaling & load balancing",
+      "Disaster recovery planning",
+      "Security & compliance setup"
+    ]
+  },
+  {
+    "id": 2,
+    "icon": "pe-7s-rocket",
+    "title": "DevOps & CI/CD Automation",
+    "description": "Accelerate delivery with automated deployment pipelines",
+    "technologies": ["Jenkins", "GitLab CI", "Docker", "Kubernetes", "Helm", "Prometheus"],
+    "features": [
+      "Automated CI/CD pipelines",
+      "Infrastructure as Code (IaC)",
+      "Container orchestration",
+      "Monitoring & alerting",
+      "Blue-green deployments",
+      "Performance optimization"
+    ]
+  },
+  {
+    "id": 3,
+    "icon": "pe-7s-phone",
+    "title": "Full-Stack Development",
+    "description": "Build scalable web and mobile applications",
+    "technologies": ["React", "Node.js", "Python", "React Native", "Vue.js", "Angular"],
+    "features": [
+      "Progressive Web Apps (PWA)",
+      "Responsive UI/UX design",
+      "API development & integration",
+      "Database design & optimization",
+      "Real-time features",
+      "Cross-platform mobile apps"
+    ]
+  },
+  {
+    "id": 4,
+    "icon": "pe-7s-graph3",
+    "title": "Data Engineering & AI/ML",
+    "description": "Unlock insights with advanced data solutions",
+    "technologies": ["Python", "TensorFlow", "Apache Spark", "Airflow", "Kafka", "Elasticsearch"],
+    "features": [
+      "Data pipeline automation",
+      "Machine learning models",
+      "Real-time analytics",
+      "Predictive modeling",
+      "Data visualization",
+      "MLOps implementation"
+    ]
+  },
+  {
+    "id": 5,
+    "icon": "pe-7s-shield",
+    "title": "Cybersecurity Solutions",
+    "description": "Protect your digital assets with comprehensive security",
+    "technologies": ["SIEM", "WAF", "IAM", "PKI", "OWASP", "ISO 27001"],
+    "features": [
+      "Security assessments",
+      "Penetration testing",
+      "Compliance frameworks",
+      "Identity management",
+      "Incident response",
+      "Security monitoring"
+    ]
+  },
+  {
+    "id": 6,
+    "icon": "pe-7s-server",
+    "title": "Microservices Architecture",
+    "description": "Design scalable, maintainable distributed systems",
+    "technologies": ["Docker", "Kubernetes", "API Gateway", "Service Mesh", "gRPC", "GraphQL"],
+    "features": [
+      "Service decomposition",
+      "API gateway implementation",
+      "Event-driven architecture",
+      "Distributed tracing",
+      "Circuit breaker patterns",
+      "Performance monitoring"
+    ]
+  },
+  {
+    "id": 7,
+    "icon": "pe-7s-tools",
+    "title": "Quality Assurance & Testing",
+    "description": "Ensure flawless software delivery",
+    "technologies": ["Selenium", "Jest", "Cypress", "JMeter", "SonarQube", "OWASP ZAP"],
+    "features": [
+      "Automated testing frameworks",
+      "Performance testing",
+      "Security testing",
+      "API testing",
+      "Load testing",
+      "Code quality analysis"
+    ]
+  },
+  {
+    "id": 8,
+    "icon": "pe-7s-users",
+    "title": "IT Strategy & Consulting",
+    "description": "Strategic guidance for digital transformation",
+    "technologies": ["Enterprise Architecture", "TOGAF", "Agile", "Scrum", "ITIL", "DevOps"],
+    "features": [
+      "Technology roadmapping",
+      "Architecture assessment",
+      "Digital transformation",
+      "Process optimization",
+      "Team augmentation",
+      "Training & mentoring"
+    ]
+  }
+]

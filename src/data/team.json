@@ -1,0 +1,60 @@
+{
+  "teams": [
+    {
+      "id": 1,
+      "image": "/img/team/1.jpg",
+      "title": "Sarah Mitchell",
+      "sub": "Chief Technology Officer"
+    },
+    {
+      "id": 2,
+      "image": "/img/team/2.jpg",
+      "title": "Michael Rodriguez",
+      "sub": "Cloud Solutions Architect"
+    },
+    {
+      "id": 3,
+      "image": "/img/team/3.jpg",
+      "title": "Jennifer Chen",
+      "sub": "DevOps Engineering Lead"
+    },
+    {
+      "id": 4,
+      "image": "/img/team/4.jpg",
+      "title": "David Thompson",
+      "sub": "AI/ML Solutions Director"
+    }
+  ],
+  "skills": [
+    {
+      "id": 1,
+      "text": "Cloud Architecture (AWS/Azure/GCP)",
+      "value": "95%"
+    },
+    {
+      "id": 2,
+      "text": "Full-Stack Development",
+      "value": "92%"
+    },
+    {
+      "id": 3,
+      "text": "DevOps & CI/CD Automation",
+      "value": "88%"
+    },
+    {
+      "id": 4,
+      "text": "AI/ML & Data Engineering",
+      "value": "85%"
+    },
+    {
+      "id": 5,
+      "text": "Cybersecurity & Compliance",
+      "value": "90%"
+    },
+    {
+      "id": 6,
+      "text": "Microservices Architecture",
+      "value": "87%"
+    }
+  ]
+}

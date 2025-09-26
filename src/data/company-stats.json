@@ -1,0 +1,135 @@
+{
+  "companyStats": [
+    {
+      "id": 1,
+      "number": "500",
+      "suffix": "+",
+      "title": "Enterprise Clients",
+      "description": "Trusted by Fortune 500 companies worldwide"
+    },
+    {
+      "id": 2,
+      "number": "2000",
+      "suffix": "+",
+      "title": "Projects Delivered",
+      "description": "Successfully completed projects across industries"
+    },
+    {
+      "id": 3,
+      "number": "20",
+      "suffix": "+",
+      "title": "Years Experience",
+      "description": "Two decades of software consulting excellence"
+    },
+    {
+      "id": 4,
+      "number": "50",
+      "suffix": "+",
+      "title": "Technology Experts",
+      "description": "Certified professionals across all major technologies"
+    },
+    {
+      "id": 5,
+      "number": "99.9",
+      "suffix": "%",
+      "title": "System Uptime",
+      "description": "Average uptime for our managed solutions"
+    },
+    {
+      "id": 6,
+      "number": "40",
+      "suffix": "%",
+      "title": "Average Cost Savings",
+      "description": "Cost reduction achieved through our optimizations"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Solutions Architect Professional",
+      "count": 15,
+      "logo": "/img/certifications/aws.png"
+    },
+    {
+      "name": "Azure Solutions Architect Expert",
+      "count": 12,
+      "logo": "/img/certifications/azure.png"
+    },
+    {
+      "name": "Google Cloud Professional Architect",
+      "count": 8,
+      "logo": "/img/certifications/gcp.png"
+    },
+    {
+      "name": "Certified Kubernetes Administrator",
+      "count": 20,
+      "logo": "/img/certifications/k8s.png"
+    },
+    {
+      "name": "CISSP Security Professionals",
+      "count": 6,
+      "logo": "/img/certifications/cissp.png"
+    }
+  ],
+  "industries": [
+    {
+      "name": "Financial Services",
+      "projects": 180,
+      "specialties": ["Compliance", "Security", "Real-time Trading"]
+    },
+    {
+      "name": "Healthcare",
+      "projects": 120,
+      "specialties": ["HIPAA Compliance", "EMR Systems", "Telemedicine"]
+    },
+    {
+      "name": "E-commerce",
+      "projects": 200,
+      "specialties": ["Scalability", "Payment Processing", "Analytics"]
+    },
+    {
+      "name": "Manufacturing",
+      "projects": 90,
+      "specialties": ["IoT", "Supply Chain", "Predictive Maintenance"]
+    },
+    {
+      "name": "Government",
+      "projects": 60,
+      "specialties": ["Security Clearance", "Compliance", "Legacy Modernization"]
+    },
+    {
+      "name": "Education",
+      "projects": 75,
+      "specialties": ["Learning Management", "Student Information Systems", "EdTech"]
+    }
+  ],
+  "technologies": {
+    "cloudPlatforms": ["AWS", "Azure", "Google Cloud", "IBM Cloud"],
+    "programmingLanguages": ["JavaScript", "Python", "Java", "Go", "C#", "TypeScript"],
+    "frameworks": ["React", "Angular", "Vue.js", "Node.js", "Django", "Spring Boot"],
+    "databases": ["PostgreSQL", "MongoDB", "Redis", "Elasticsearch", "DynamoDB"],
+    "devopsTools": ["Docker", "Kubernetes", "Terraform", "Jenkins", "GitLab CI"],
+    "aiMlTools": ["TensorFlow", "PyTorch", "Scikit-learn", "Apache Spark", "MLflow"]
+  },
+  "awards": [
+    {
+      "year": 2024,
+      "title": "Best Cloud Consulting Partner",
+      "organization": "AWS Partner Awards"
+    },
+    {
+      "year": 2023,
+      "title": "Innovation in AI/ML Solutions",
+      "organization": "Tech Excellence Awards"
+    },
+    {
+      "year": 2023,
+      "title": "Top DevOps Consulting Firm",
+      "organization": "DevOps Institute"
+    },
+    {
+      "year": 2022,
+      "title": "Cybersecurity Excellence Award",
+      "organization": "Information Security Association"
+    }
+  ]
+}

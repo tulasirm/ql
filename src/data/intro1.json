@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "title": "Enterprise Cloud Transformation",
+        "content": "Accelerate your digital transformation with cloud-native architectures, microservices, and DevOps automation. We help Fortune 500 companies modernize their technology stack for scalability and innovation.",
+        "image": "/img/slid/02.jpg"
+    },
+    {
+        "id": 2,
+        "title": "AI-Powered Business Solutions",
+        "content": "Harness the power of artificial intelligence and machine learning to drive business growth. From predictive analytics to intelligent automation, we build AI solutions that deliver measurable ROI.",
+        "image": "/img/slid/03.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Cybersecurity Excellence",
+        "content": "Protect your digital assets with comprehensive security frameworks, zero-trust architecture, and compliance solutions. Our security experts ensure your infrastructure remains resilient against evolving threats.",
+        "image": "/img/slid/01.jpg"
+    }
+]

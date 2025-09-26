@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "title": "Enterprise Cloud Migration",
+    "secTex": "AWS Multi-Account Architecture",
+    "image": "/img/portfolio/metro/2.jpg",
+    "slug": "/insight-details",
+    "category": "Cloud Solutions"
+  },
+  {
+    "id": 2,
+    "title": "AI-Powered Analytics Platform",
+    "secTex": "Machine Learning & Big Data",
+    "image": "/img/portfolio/metro/5.jpg",
+    "slug": "/insight-details",
+    "category": "AI/ML Solutions"
+  },
+  {
+    "id": 3,
+    "title": "Microservices Transformation",
+    "secTex": "Kubernetes & Container Orchestration",
+    "image": "/img/portfolio/metro/4.jpg",
+    "slug": "/insight-details",
+    "category": "DevOps & Infrastructure"
+  },
+  {
+    "id": 4,
+    "title": "Cybersecurity Implementation",
+    "secTex": "Zero-Trust Security Framework",
+    "image": "/img/portfolio/metro/6.jpg",
+    "slug": "/insight-details",
+    "category": "Security Solutions"
+  },
+  {
+    "id": 5,
+    "title": "E-commerce Platform Modernization",
+    "secTex": "React, Node.js & PostgreSQL",
+    "image": "/img/portfolio/metro/3.jpg",
+    "slug": "/insight-details",
+    "category": "Full-Stack Development"
+  },
+  {
+    "id": 6,
+    "title": "IoT Data Pipeline",
+    "secTex": "Real-time Streaming & Analytics",
+    "image": "/img/portfolio/metro/1.jpg",
+    "slug": "/insight-details",
+    "category": "Data Engineering"
+  },
+  {
+    "id": 7,
+    "title": "Mobile Banking App",
+    "secTex": "React Native & Blockchain",
+    "image": "/img/portfolio/metro/7.jpg",
+    "slug": "/insight-details",
+    "category": "Mobile Development"
+  },
+  {
+    "id": 8,
+    "title": "Digital Transformation Strategy",
+    "secTex": "Legacy System Modernization",
+    "image": "/img/portfolio/metro/8.jpg",
+    "slug": "/insight-details",
+    "category": "IT Consulting"
+  }
+]

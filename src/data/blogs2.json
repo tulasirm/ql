@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "title": "Java Fullstack Developers.",
+    "content": "QuantaLeaps is hiring Java fullstack developers with strong knowledge in Java, spring boot, Angular and NodeJs.",
+    "image": "/img/blog/l1.jpg",
+    "tags": ["JobID: JREQ001"],
+    "date": {
+      "day": "29th",
+      "month": "December"
+    }
+  },
+  {
+    "id": 2,
+    "title": "SDET-UATs",
+    "content": "QuantaLeaps hiring SDET/UATs for QA roles with strong Manual testing with Web, API and mobile testing, Automation experince is plus.",
+    "image": "/img/blog/l2.jpg",
+    "tags": ["JobID: QAREQ001"],
+    "date": {
+      "day": "29th ",
+      "month": "December"
+    }
+  },
+  {
+    "id": 3,
+    "title": "Node Fullstack Developers",
+    "content": "QuantaLeaps is looking for NodeJS fullstack developers with strong knowledge and experience in Node, Angular and HappyJS.",
+    "image": "/img/blog/b2.jpg",
+    "tags": ["JobID: NJREQ001"],
+    "date": {
+      "day": "29th ",
+      "month": "December"
+    }
+  }
+]

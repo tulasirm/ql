@@ -1,0 +1,124 @@
+{
+  "id": 1,
+  "title": {
+    "small": "Cloud Migration & Modernization",
+    "big": "Enterprise AWS Multi-Account Architecture"
+  },
+  "clientURLLink": "#",
+  "projectHeaderImage": "/img/portfolio/project2/bg.jpg",
+  "videoLink": "https://vimeo.com/127203262",
+  "clientURLName": "Fortune 500 Financial Services",
+  "date": "15 September 2024",
+  "categories": [
+    {
+      "id": 1,
+      "name": "Cloud Architecture",
+      "link": "#"
+    },
+    {
+      "id": 2,
+      "name": "DevOps Automation",
+      "link": "#"
+    },
+    {
+      "id": 3,
+      "name": "Microservices",
+      "link": "#"
+    }
+  ],
+  "tags": [
+    {
+      "id": 1,
+      "name": "AWS",
+      "link": "#"
+    },
+    {
+      "id": 2,
+      "name": "Kubernetes",
+      "link": "#"
+    },
+    {
+      "id": 3,
+      "name": "Terraform",
+      "link": "#"
+    },
+    {
+      "id": 4,
+      "name": "CI/CD",
+      "link": "#"
+    }
+  ],
+  "intro": {
+    "content": "QuantaLeaps partnered with a Fortune 500 financial services company to migrate their legacy infrastructure to AWS, implementing a modern multi-account architecture with automated CI/CD pipelines, containerized microservices, and comprehensive security controls. The project reduced operational costs by 40% while improving system reliability to 99.9% uptime.",
+    "spmList": [
+      {
+        "id": 1,
+        "name": "Multi-account AWS architecture design"
+      },
+      {
+        "id": 2,
+        "name": "Kubernetes cluster setup with EKS"
+      },
+      {
+        "id": 3,
+        "name": "Automated CI/CD pipeline implementation"
+      },
+      {
+        "id": 4,
+        "name": "Infrastructure as Code with Terraform"
+      },
+      {
+        "id": 5,
+        "name": "Zero-downtime migration strategy"
+      },
+      {
+        "id": 6,
+        "name": "Comprehensive monitoring and alerting"
+      }
+    ]
+  },
+  "gallery": [
+    "/img/portfolio/project2/1.jpg",
+    "/img/portfolio/project2/2.jpg",
+    "/img/portfolio/project2/3.jpg",
+    "/img/portfolio/project2/5.jpg",
+    "/img/portfolio/project2/7.jpg"
+  ],
+  "description": {
+    "content": "This comprehensive cloud transformation project showcased QuantaLeaps' expertise in enterprise-grade cloud architecture and DevOps automation. We implemented industry best practices including infrastructure as code, automated testing, security scanning, and continuous monitoring. The solution supports auto-scaling based on demand, implements blue-green deployments for zero-downtime updates, and includes disaster recovery capabilities across multiple AWS regions. The project team consisted of certified cloud architects, DevOps engineers, and security specialists who worked closely with the client's IT team to ensure knowledge transfer and ongoing support."
+  },
+  "technologies": [
+    "AWS (EC2, EKS, RDS, S3, CloudFormation)",
+    "Kubernetes & Docker",
+    "Terraform & Ansible",
+    "Jenkins & GitLab CI",
+    "Prometheus & Grafana",
+    "Istio Service Mesh"
+  ],
+  "results": {
+    "metrics": [
+      {
+        "label": "Cost Reduction",
+        "value": "40%"
+      },
+      {
+        "label": "Deployment Time",
+        "value": "80% faster"
+      },
+      {
+        "label": "System Uptime",
+        "value": "99.9%"
+      },
+      {
+        "label": "Security Compliance",
+        "value": "100%"
+      }
+    ],
+    "achievements": [
+      "Successfully migrated 50+ microservices to AWS EKS",
+      "Implemented automated compliance reporting for SOX and PCI DSS",
+      "Reduced manual deployment time from 4 hours to 45 minutes",
+      "Achieved sub-second response times for critical APIs"
+    ]
+  }
+}

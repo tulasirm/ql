@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "title": "Kubernetes Security Best Practices for Enterprise Applications",
+    "content": "As organizations increasingly adopt Kubernetes for container orchestration, security becomes paramount. This comprehensive guide explores advanced security patterns, RBAC implementation, network policies, and compliance strategies that ensure your Kubernetes clusters remain secure and resilient against evolving threats.",
+    "image": "/img/blog/b1.jpg",
+    "tags": ["Kubernetes", "Security", "DevOps", "Enterprise"],
+    "date": {
+      "day": "15",
+      "month": "September"
+    },
+    "author": "Sarah Mitchell",
+    "readTime": "8 min read",
+    "category": "DevOps & Security"
+  },
+  {
+    "id": 2,
+    "title": "The Rise of AI-Driven Development: How Machine Learning is Transforming Software Engineering",
+    "content": "Artificial Intelligence is revolutionizing how we build, test, and deploy software. From automated code generation to intelligent testing frameworks, explore how AI/ML technologies are enhancing developer productivity and code quality while reducing time-to-market for enterprise applications.",
+    "image": "/img/blog/b2.jpg",
+    "tags": ["AI/ML", "Software Engineering", "Automation", "Innovation"],
+    "date": {
+      "day": "12",
+      "month": "September"
+    },
+    "author": "David Thompson",
+    "readTime": "10 min read",
+    "category": "AI & Innovation"
+  },
+  {
+    "id": 3,
+    "title": "Microservices vs Monoliths: Strategic Decision Framework for 2024",
+    "content": "The architectural choice between microservices and monolithic applications impacts scalability, maintainability, and team productivity. This in-depth analysis provides a decision framework considering factors like team size, complexity, deployment frequency, and organizational maturity.",
+    "image": "/img/blog/b3.jpg",
+    "tags": ["Architecture", "Microservices", "Scalability", "Strategy"],
+    "date": {
+      "day": "08",
+      "month": "September"
+    },
+    "author": "Michael Rodriguez",
+    "readTime": "12 min read",
+    "category": "Software Architecture"
+  },
+  {
+    "id": 4,
+    "title": "Zero-Trust Security Architecture: Implementation Guide for Modern Enterprises",
+    "content": "Traditional perimeter-based security is obsolete in today's distributed work environment. Learn how to implement a comprehensive zero-trust security model with multi-factor authentication, continuous monitoring, least-privilege access, and identity-based security controls.",
+    "image": "/img/blog/b4.jpg",
+    "tags": ["Cybersecurity", "Zero-Trust", "Identity Management", "Compliance"],
+    "date": {
+      "day": "05",
+      "month": "September"
+    },
+    "author": "Jennifer Chen",
+    "readTime": "15 min read",
+    "category": "Cybersecurity"
+  },
+  {
+    "id": 5,
+    "title": "Cloud Cost Optimization: Advanced Strategies for Multi-Cloud Environments",
+    "content": "Managing costs across AWS, Azure, and GCP requires sophisticated strategies beyond basic resource rightsizing. Discover advanced techniques including reserved instances optimization, spot instance strategies, automated scaling policies, and FinOps best practices.",
+    "image": "/img/blog/b1.jpg",
+    "tags": ["Cloud", "Cost Optimization", "FinOps", "Multi-Cloud"],
+    "date": {
+      "day": "01",
+      "month": "September"
+    },
+    "author": "Sarah Mitchell",
+    "readTime": "9 min read",
+    "category": "Cloud Solutions"
+  },
+  {
+    "id": 6,
+    "title": "Building Resilient Data Pipelines with Apache Kafka and Kubernetes",
+    "content": "Modern data architecture demands real-time processing capabilities and fault tolerance. Explore how to design and implement robust data pipelines using Apache Kafka, Kubernetes operators, and streaming analytics for enterprise-scale data processing.",
+    "image": "/img/blog/b2.jpg",
+    "tags": ["Data Engineering", "Kafka", "Kubernetes", "Real-time"],
+    "date": {
+      "day": "28",
+      "month": "August"
+    },
+    "author": "David Thompson",
+    "readTime": "11 min read",
+    "category": "Data Engineering"
+  }
+]

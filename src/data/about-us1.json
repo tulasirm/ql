@@ -1,0 +1,13 @@
+{
+  "id": 1,
+  "smallTitle": "About QuantaLeaps",
+  "title": "Transforming Businesses Through Technology Excellence",
+  "content": "With two decades of proven expertise in software consulting, we've helped organizations across industries embrace digital transformation. Our comprehensive approach combines cutting-edge technologies with strategic business insights to deliver solutions that scale, perform, and drive measurable results.",
+  "image": "/img/feat.jpg",
+  "status": [
+    { "id": 1, "number": "500", "letter": "+", "statusName": "Enterprise Clients" },
+    { "id": 2, "number": "2000", "letter": "+", "statusName": "Projects Delivered" },
+    { "id": 3, "number": "20", "letter": "+", "statusName": "Years Experience" },
+    { "id": 4, "number": "50", "letter": "+", "statusName": "Technology Experts" }
+  ]
+}

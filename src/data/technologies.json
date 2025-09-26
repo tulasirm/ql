@@ -1,0 +1,220 @@
+{
+  "frontendTechnologies": [
+    {
+      "name": "React",
+      "level": "Expert",
+      "projects": 150,
+      "description": "Building complex web applications with hooks, context, and modern patterns"
+    },
+    {
+      "name": "Vue.js",
+      "level": "Advanced",
+      "projects": 80,
+      "description": "Creating reactive user interfaces with Composition API and Vuex"
+    },
+    {
+      "name": "Angular",
+      "level": "Advanced", 
+      "projects": 70,
+      "description": "Enterprise applications with TypeScript, RxJS, and Angular Material"
+    },
+    {
+      "name": "Next.js",
+      "level": "Expert",
+      "projects": 120,
+      "description": "Server-side rendering, static generation, and full-stack applications"
+    },
+    {
+      "name": "TypeScript",
+      "level": "Expert",
+      "projects": 200,
+      "description": "Type-safe development for large-scale applications"
+    }
+  ],
+  "backendTechnologies": [
+    {
+      "name": "Node.js",
+      "level": "Expert",
+      "projects": 180,
+      "description": "Scalable server-side applications with Express, Nest.js, and microservices"
+    },
+    {
+      "name": "Python",
+      "level": "Expert",
+      "projects": 160,
+      "description": "Django, Flask, FastAPI for web development and data processing"
+    },
+    {
+      "name": "Java",
+      "level": "Advanced",
+      "projects": 90,
+      "description": "Spring Boot, Spring Cloud for enterprise applications"
+    },
+    {
+      "name": "Go",
+      "level": "Advanced",
+      "projects": 50,
+      "description": "High-performance microservices and cloud-native applications"
+    },
+    {
+      "name": ".NET Core",
+      "level": "Advanced",
+      "projects": 60,
+      "description": "Cross-platform applications with C# and modern .NET ecosystem"
+    }
+  ],
+  "cloudPlatforms": [
+    {
+      "name": "AWS",
+      "level": "Expert",
+      "certifications": ["Solutions Architect Professional", "DevOps Engineer Professional"],
+      "services": ["EC2", "EKS", "Lambda", "RDS", "S3", "CloudFormation", "API Gateway"]
+    },
+    {
+      "name": "Azure",
+      "level": "Advanced",
+      "certifications": ["Azure Solutions Architect Expert"],
+      "services": ["AKS", "App Service", "Functions", "Cosmos DB", "Storage", "ARM Templates"]
+    },
+    {
+      "name": "Google Cloud Platform",
+      "level": "Advanced",
+      "certifications": ["Professional Cloud Architect"],
+      "services": ["GKE", "Cloud Run", "BigQuery", "Cloud Storage", "Pub/Sub", "Deployment Manager"]
+    }
+  ],
+  "devOpsTechnologies": [
+    {
+      "name": "Docker",
+      "level": "Expert",
+      "description": "Containerization, multi-stage builds, and Docker Compose"
+    },
+    {
+      "name": "Kubernetes",
+      "level": "Expert", 
+      "description": "Container orchestration, Helm charts, operators, and service mesh"
+    },
+    {
+      "name": "Terraform",
+      "level": "Expert",
+      "description": "Infrastructure as Code across AWS, Azure, and GCP"
+    },
+    {
+      "name": "Jenkins",
+      "level": "Advanced",
+      "description": "CI/CD pipelines, Pipeline as Code, and automation"
+    },
+    {
+      "name": "GitLab CI",
+      "level": "Advanced",
+      "description": "GitOps workflows and automated deployments"
+    },
+    {
+      "name": "Ansible",
+      "level": "Advanced",
+      "description": "Configuration management and infrastructure automation"
+    }
+  ],
+  "databases": [
+    {
+      "name": "PostgreSQL",
+      "level": "Expert",
+      "description": "Advanced querying, performance optimization, and replication"
+    },
+    {
+      "name": "MongoDB",
+      "level": "Advanced",
+      "description": "Document-based storage, aggregation, and sharding"
+    },
+    {
+      "name": "Redis",
+      "level": "Advanced",
+      "description": "Caching, session storage, and real-time applications"
+    },
+    {
+      "name": "Elasticsearch",
+      "level": "Advanced",
+      "description": "Search engines, log analysis, and data visualization"
+    },
+    {
+      "name": "Apache Kafka",
+      "level": "Advanced",
+      "description": "Stream processing and event-driven architecture"
+    }
+  ],
+  "aiMlTechnologies": [
+    {
+      "name": "TensorFlow",
+      "level": "Advanced",
+      "description": "Deep learning models and neural networks"
+    },
+    {
+      "name": "PyTorch",
+      "level": "Advanced",
+      "description": "Research-oriented machine learning and computer vision"
+    },
+    {
+      "name": "Scikit-learn",
+      "level": "Expert",
+      "description": "Classical machine learning algorithms and data preprocessing"
+    },
+    {
+      "name": "Apache Spark",
+      "level": "Advanced",
+      "description": "Big data processing and distributed computing"
+    },
+    {
+      "name": "Jupyter",
+      "level": "Expert",
+      "description": "Data science workflows and exploratory analysis"
+    }
+  ],
+  "mobileTechnologies": [
+    {
+      "name": "React Native",
+      "level": "Advanced",
+      "projects": 40,
+      "description": "Cross-platform mobile applications with native performance"
+    },
+    {
+      "name": "Flutter",
+      "level": "Advanced",
+      "projects": 25,
+      "description": "Beautiful, natively compiled mobile applications"
+    },
+    {
+      "name": "iOS (Swift)",
+      "level": "Intermediate",
+      "projects": 15,
+      "description": "Native iOS development with SwiftUI and UIKit"
+    },
+    {
+      "name": "Android (Kotlin)",
+      "level": "Intermediate",
+      "projects": 20,
+      "description": "Native Android development with Jetpack Compose"
+    }
+  ],
+  "securityTechnologies": [
+    {
+      "name": "OAuth 2.0 / OpenID Connect",
+      "level": "Expert",
+      "description": "Identity and access management implementation"
+    },
+    {
+      "name": "OWASP Security",
+      "level": "Advanced",
+      "description": "Web application security best practices and testing"
+    },
+    {
+      "name": "PKI / TLS",
+      "level": "Advanced",
+      "description": "Certificate management and encrypted communications"
+    },
+    {
+      "name": "SIEM Solutions",
+      "level": "Intermediate",
+      "description": "Security information and event management"
+    }
+  ]
+}

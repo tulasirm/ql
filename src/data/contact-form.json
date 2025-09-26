@@ -1,0 +1,40 @@
+{
+  "id": 1,
+  "title": "Ready to Transform Your Business?",
+  "subtitle": "Let's discuss your next software consulting project",
+  "email": "contact@quantaleaps.com",
+  "salesEmail": "sales@quantaleaps.com",
+  "supportEmail": "support@quantaleaps.com",
+  "phone": "+1 253-486-7125",
+  "tollFree": "+1 800-QUANTA-1",
+  "location": {
+    "first": "Seattle",
+    "second": "Washington, USA"
+  },
+  "additionalOffices": [
+    {
+      "city": "New York",
+      "state": "NY",
+      "phone": "+1 212-555-0123"
+    },
+    {
+      "city": "Austin",
+      "state": "TX", 
+      "phone": "+1 512-555-0124"
+    },
+    {
+      "city": "San Francisco",
+      "state": "CA",
+      "phone": "+1 415-555-0125"
+    }
+  ],
+  "businessHours": {
+    "weekdays": "Monday - Friday: 8:00 AM - 6:00 PM PST",
+    "support": "24/7 Emergency Support Available"
+  },
+  "socialMedia": {
+    "linkedin": "https://linkedin.com/company/quantaleaps",
+    "twitter": "https://twitter.com/quantaleaps",
+    "github": "https://github.com/quantaleaps"
+  }
+}

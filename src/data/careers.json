@@ -1,0 +1,164 @@
+[
+  {
+    "id": 1,
+    "title": "Senior Cloud Solutions Architect",
+    "department": "Cloud Services",
+    "location": "Remote / Hybrid",
+    "type": "Full-time",
+    "experience": "5+ years",
+    "salary": "$140,000 - $180,000",
+    "description": "Lead cloud architecture design and implementation for enterprise clients. Drive cloud migration strategies and mentor junior architects.",
+    "requirements": [
+      "AWS/Azure/GCP certifications (Solutions Architect Professional preferred)",
+      "5+ years of cloud architecture experience",
+      "Experience with Kubernetes, Docker, and microservices",
+      "Infrastructure as Code (Terraform, CloudFormation)",
+      "Strong communication and client-facing skills"
+    ],
+    "responsibilities": [
+      "Design scalable cloud architectures for enterprise clients",
+      "Lead cloud migration and modernization projects",
+      "Mentor team members and conduct technical reviews",
+      "Collaborate with sales team on technical proposals",
+      "Stay current with emerging cloud technologies"
+    ],
+    "skills": ["AWS", "Azure", "Kubernetes", "Terraform", "Architecture Design"],
+    "posted": "2024-09-20",
+    "urgency": "high"
+  },
+  {
+    "id": 2,
+    "title": "DevOps Engineer - CI/CD Specialist",
+    "department": "DevOps & Automation",
+    "location": "Remote",
+    "type": "Full-time",
+    "experience": "3+ years",
+    "salary": "$110,000 - $140,000",
+    "description": "Build and maintain CI/CD pipelines, automate infrastructure provisioning, and implement monitoring solutions for client projects.",
+    "requirements": [
+      "3+ years of DevOps/SRE experience",
+      "Proficiency with Jenkins, GitLab CI, or similar CI/CD tools",
+      "Experience with Docker, Kubernetes, and container orchestration",
+      "Knowledge of monitoring tools (Prometheus, Grafana, ELK stack)",
+      "Scripting skills in Python, Bash, or PowerShell"
+    ],
+    "responsibilities": [
+      "Design and implement CI/CD pipelines",
+      "Automate infrastructure provisioning and configuration",
+      "Implement monitoring and alerting solutions",
+      "Optimize application performance and reliability",
+      "Collaborate with development teams on deployment strategies"
+    ],
+    "skills": ["Jenkins", "Docker", "Kubernetes", "Python", "Monitoring"],
+    "posted": "2024-09-18",
+    "urgency": "medium"
+  },
+  {
+    "id": 3,
+    "title": "Full-Stack Developer (React/Node.js)",
+    "department": "Software Development",
+    "location": "Hybrid - New York",
+    "type": "Full-time",
+    "experience": "4+ years",
+    "salary": "$120,000 - $150,000",
+    "description": "Develop modern web applications using React, Node.js, and cloud technologies. Work on diverse client projects ranging from startups to enterprise solutions.",
+    "requirements": [
+      "4+ years of full-stack development experience",
+      "Expert knowledge of React, Node.js, and modern JavaScript",
+      "Experience with TypeScript and modern development tools",
+      "Knowledge of database design (PostgreSQL, MongoDB)",
+      "Understanding of cloud platforms and containerization"
+    ],
+    "responsibilities": [
+      "Develop responsive web applications using React and TypeScript",
+      "Build scalable backend APIs with Node.js and Express",
+      "Implement database designs and optimize queries",
+      "Collaborate with UX/UI designers and product managers",
+      "Participate in code reviews and technical planning"
+    ],
+    "skills": ["React", "Node.js", "TypeScript", "PostgreSQL", "AWS"],
+    "posted": "2024-09-15",
+    "urgency": "medium"
+  },
+  {
+    "id": 4,
+    "title": "AI/ML Engineer",
+    "department": "Data Science & AI",
+    "location": "Remote",
+    "type": "Full-time",
+    "experience": "3+ years",
+    "salary": "$130,000 - $160,000",
+    "description": "Develop machine learning solutions, implement AI models, and work on data pipeline automation for enterprise clients.",
+    "requirements": [
+      "3+ years of ML/AI development experience",
+      "Proficiency with Python, TensorFlow, PyTorch, or Scikit-learn",
+      "Experience with data processing and ETL pipelines",
+      "Knowledge of MLOps practices and model deployment",
+      "Understanding of statistical analysis and data visualization"
+    ],
+    "responsibilities": [
+      "Design and implement machine learning models",
+      "Build data processing pipelines and ETL workflows",
+      "Deploy and monitor ML models in production",
+      "Collaborate with data scientists and software engineers",
+      "Research and evaluate new AI/ML technologies"
+    ],
+    "skills": ["Python", "TensorFlow", "MLOps", "Data Engineering", "Statistics"],
+    "posted": "2024-09-12",
+    "urgency": "high"
+  },
+  {
+    "id": 5,
+    "title": "Cybersecurity Consultant",
+    "department": "Security Services",
+    "location": "Hybrid - Washington DC",
+    "type": "Full-time",
+    "experience": "5+ years",
+    "salary": "$135,000 - $170,000",
+    "description": "Provide cybersecurity consulting services, conduct security assessments, and implement security frameworks for enterprise clients.",
+    "requirements": [
+      "5+ years of cybersecurity experience",
+      "Security certifications (CISSP, CISM, or equivalent)",
+      "Experience with security frameworks (NIST, ISO 27001)",
+      "Knowledge of penetration testing and vulnerability assessment",
+      "Strong understanding of compliance requirements"
+    ],
+    "responsibilities": [
+      "Conduct security assessments and risk analysis",
+      "Implement security frameworks and compliance programs",
+      "Perform penetration testing and vulnerability assessments",
+      "Develop security policies and procedures",
+      "Train client teams on security best practices"
+    ],
+    "skills": ["CISSP", "Penetration Testing", "NIST Framework", "Risk Assessment", "Compliance"],
+    "posted": "2024-09-10",
+    "urgency": "medium"
+  },
+  {
+    "id": 6,
+    "title": "Mobile App Developer (React Native/Flutter)",
+    "department": "Mobile Development",
+    "location": "Remote",
+    "type": "Contract",
+    "experience": "3+ years",
+    "salary": "$90 - $120 per hour",
+    "description": "Develop cross-platform mobile applications for various client projects using React Native and Flutter frameworks.",
+    "requirements": [
+      "3+ years of mobile app development experience",
+      "Proficiency with React Native and/or Flutter",
+      "Experience with native iOS and Android development",
+      "Knowledge of mobile app store deployment processes",
+      "Understanding of mobile UI/UX best practices"
+    ],
+    "responsibilities": [
+      "Develop cross-platform mobile applications",
+      "Integrate with RESTful APIs and backend services",
+      "Implement responsive and intuitive user interfaces",
+      "Optimize app performance and user experience",
+      "Collaborate with designers and backend developers"
+    ],
+    "skills": ["React Native", "Flutter", "iOS", "Android", "Mobile UI/UX"],
+    "posted": "2024-09-08",
+    "urgency": "low"
+  }
+]
